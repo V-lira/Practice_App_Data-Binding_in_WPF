@@ -11,7 +11,7 @@ using System.Windows.Input;
 
 namespace WpfApp3
 {
-    internal class view_model : INotifyPropertyChanged  // ДОБАВЬ : INotifyPropertyChanged
+    internal class view_model : INotifyPropertyChanged
     {
         private double _width;
         private double _height;
@@ -95,4 +95,5 @@ namespace WpfApp3
             Brush = brush;
         }
     }
+
 }
