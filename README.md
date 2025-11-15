@@ -23,7 +23,7 @@ Area property is read-only (only get method)
 When Width or Height changes, Area automatically recalculates
 No buttons needed - everything works automatically
 
-Task №2: Color Picker
+---------------Task №2: Color Picker-----------
 -------------------------------------------------------
 What it does:
 Dropdown list (ComboBox) with color names: red, green, blue, yellow, purple
@@ -42,5 +42,6 @@ Each color has name and Brush value
 Border background binds to selected color's Brush
 
 
-Result
+Result:
+
 Both tasks work perfectly! The rectangle area calculates automatically while typing, and color picker changes background color instantly when selecting from dropdown.
