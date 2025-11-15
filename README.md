@@ -12,6 +12,8 @@ What it does:
 Two text boxes for entering {Width} and {Height}
 Automatic area calculation in real-time
 Area updates immediately when you type in {width} or {height}
+
+
 <img width="494" height="519" alt="image" src="https://github.com/user-attachments/assets/46054aff-c79f-4929-84fa-c345c941feeb" />
 
 
@@ -27,7 +29,9 @@ What it does:
 Dropdown list (ComboBox) with color names: red, green, blue, yellow, purple
 When you select a color, the color changes immediately
 Shows both color name and colored background
+
 <img width="477" height="504" alt="image" src="https://github.com/user-attachments/assets/565b7bcd-ed50-4354-a4af-7b174ac32a5e" />
+
 <img width="484" height="508" alt="image" src="https://github.com/user-attachments/assets/ceddec75-9a8e-42be-9b79-6faf115ee997" />
 
 
